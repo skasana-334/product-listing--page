@@ -4,6 +4,7 @@
 
 ## Overview <a name = "overview"></a>
 This project introduces a dynamic product listing page developed with Next.js. Utilizing the Fake Store API, it seamlessly retrieves and exhibits various products in a structured grid format. The page offers comprehensive search capabilities, allowing users to easily locate desired products and explore detailed insights for each item.
+Demo - https://main--product-hunt-33.netlify.app/
 
 
 
